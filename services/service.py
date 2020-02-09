@@ -13,7 +13,7 @@ class Service:
     user_agent = "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36"
     client = aiohttp.ClientSession()
     
-    wait_new_ip = None
+    wait_new_ip = 0
     is_ip_available = True
     # @staticmethod
     # async def close():
