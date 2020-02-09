@@ -14,5 +14,7 @@ https://www.torproject.org/ru/download/tor/
 stem doc
 https://stem.torproject.org/#
 
-1 install requirements (by command pip install -r requirements.txt)
-2 open main.py
+
+1. install requirements (by command pip install -r requirements.txt)
+
+2. open main.py
